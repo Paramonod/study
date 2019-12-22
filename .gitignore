@@ -1,2 +1,3 @@
-./idea
-./creditionals.py
+.idea/
+__pycache__/
+creditionals.py
